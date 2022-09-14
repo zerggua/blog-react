@@ -1,0 +1,9 @@
+.frontGeneral-wrapper{
+    display: grid;
+    position: absolute;
+    width: 100%;
+}
+
+.frontGeneral-marg{
+    margin: 0% 5% 0% 5%;
+}

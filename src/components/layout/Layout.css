@@ -1,0 +1,40 @@
+
+.general-font-layer-one {
+    background: linear-gradient(
+        330.24deg,
+        rgba(11, 29, 38, 0) 31.06%,
+        #0b1d26 108.93%
+    );
+    height: 1200px;
+    
+}
+
+.general-font-layer-two {
+    background-image: url(../../assets/MG.png);
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 469px;
+    height: 1422px;
+    width: 100%;
+
+}
+
+.general-font-layers-green {
+    background-image: url(../../assets/VG.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    position: absolute;
+    height: 926px;
+    top: 700px;
+
+}
+
+.general-font-layers-black {
+    position: absolute;
+    width: 100%;
+    height: 700px;
+    left: 0px;
+    top: 1200px;
+
+    background: linear-gradient(180deg, rgba(11, 29, 38, 0) 0%, #0b1d26 61.38%);
+}
